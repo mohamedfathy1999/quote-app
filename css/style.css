@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine;
+}
+div {
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+    font-family:Anton ;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    font-weight: bold;
+}
+
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color:deeppink ;
+    color: white;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#color{
+    color: rgb(226, 23, 23);
+}
+
+p{
+    font-size: 35px;
+    color:darkorange;
+    
+}
+
+button:hover{
+    background-color:darkslategray;
+}
